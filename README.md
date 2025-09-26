@@ -1,4 +1,4 @@
-![C++ Image](https://avatars.githubusercontent.com/u/59276?s=280&v=4)
+![C++ Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1067px-ISO_C%2B%2B_Logo.svg.png)
 # AlgorithmLabProbelmSolve
 ## Problem List
 ```
