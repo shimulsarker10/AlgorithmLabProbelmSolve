@@ -1,6 +1,6 @@
 # AlgorithmLabProbelmSolve
 ## Problem List
-'''
+```
 1. Write a program to find the number of comparisons to sort n elements in
 Bubble sort algorithm.
 2. Write a program to sort N element using quick sort algorithm.
@@ -19,4 +19,4 @@ Slide)
 10. Write a program to find the fibonacci series of N Number. (Follow Lab
 Class)
 
-'''
+```
