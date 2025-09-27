@@ -1,6 +1,7 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1067px-ISO_C%2B%2B_Logo.svg.png" width="200">
+![C++ Image](https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png)
 # AlgorithmLabProbelmSolve
 ## Problem List
+
 ```
 1. Write a program to find the number of comparisons to sort n elements in
 Bubble sort algorithm.
