@@ -17,8 +17,7 @@ Selection Sort algorithm. (Follow Lab Class)
 Selection Sort algorithm. (Follow Lab Class)
 8. Write a program to find the following Floyd’s Triangle (Follow Lecture
 Slide)
-9. Write a program to detect the Leap year (Follow Lab Class)
-10. Write a program to find the fibonacci series of N Number. (Follow Lab
+9. Write a program to find the fibonacci series of N Number. (Follow Lab
 Class)
 
 ```
